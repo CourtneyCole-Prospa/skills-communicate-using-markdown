@@ -4,4 +4,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-The changes made to this file include headers of varying sizes and the addition of an image, as well as some javascript.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+# <h6> The changes made to this file include headers of varying sizes and the addition of an image, as well as some javascript. A Task List has been added as well.
